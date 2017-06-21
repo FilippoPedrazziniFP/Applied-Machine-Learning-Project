@@ -16,15 +16,15 @@ After visualized the Data with Tableau, we used many Python libraries such as Sc
 
 Heere some screenshots of the project.
 
-## Data Visualization (Tableau)
+### Data Visualization (Tableau)
 
-<img src="img/bal2.png" width="40%">
+<img src="img/bal2.png" width="50%">
 
-## Data Preprocessing
+### Data Preprocessing
 
-<img src="img/Pandas.png" width="30%">
+<img src="img/Pandas.png" width="50%">
 
-## Model Selection
+### Model Selection
 
-<img src="img/Threshold.png" width="40%">
+<img src="img/Threshold.png" width="50%">
 
