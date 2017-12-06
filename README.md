@@ -2,29 +2,21 @@
 
 The repository contains the project did for the Data Mining Course at @Polimi (Politecnico di Milano - EIT Data Science Master Programme)
 
-## The Team
-
-The team was composed by Riccardo Lo Bianco, Eugenio Lomurno, Filippo Pedrazzini and Alessandro Terragni.
-
 ## Description
+The objective of the course was to simulate a real business problem that can be solved using Machine Learning algorithms. The implementation went through all the standard steps for generating a meaningful solution. The final chosen model was XGBoost after the tuning of the parameters on the train set.
 
-The objective of the course was to simulate a real business problem that can be solved using Machine Learning algorithms. 
+### Usage and Project Visualization
+The main_book.ypnb contains all the implementation starting from the visualization phase to the final testing.
 
-## Imlementation Tools
+### Further descriptions
+The repo contains the presentation done for showing the final results and the applied method.
 
-After visualized the Data with Tableau, we used many Python libraries such as Scikitlearn and Pandas to import and process the data. 
+### Prerequisites
+- Python 3.5
+- Numpy
+- Matplotlib
+- Pandas
+- Scikitlearn
 
-Heere some screenshots of the project.
 
-### Data Visualization (Tableau)
-
-<img src="img/bal2.png" width="50%">
-
-### Data Preprocessing
-
-<img src="img/Pandas.png" width="50%">
-
-### Model Selection
-
-<img src="img/Threshold.png" width="50%">
 
