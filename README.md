@@ -1,4 +1,4 @@
-# Data-Mining-Project
+# Applied-Machine-Learning-Project
 
 The repository contains the project did for the Data Mining Course at @Polimi (Politecnico di Milano - EIT Data Science Master Programme)
 
